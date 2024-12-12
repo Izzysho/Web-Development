@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: burlywood;
 }
 
 h1 {
@@ -9,4 +9,15 @@ h1 {
 pre {
     text-align: center;
     color: aliceblue;
+}
+#menu{
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    margin: auto;
+}
+#audio{
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
 }
